@@ -1,0 +1,4 @@
+[default]
+entity: univai-ss2019
+project: mnist-logistic-ann
+base_url: https://api.wandb.ai
